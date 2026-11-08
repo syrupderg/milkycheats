@@ -4,6 +4,9 @@ A unified Tampermonkey / Violentmonkey userscript that provides an external chea
 
 The cheat menu is injected **outside** the game viewport directly onto the itch.io page, keeping the gameplay canvas completely unobstructed and character artwork unclipped.
 
+## ❗ Important!
+MilkyCheats is ONLY available in [GitHub](https://github.com/syrupderg/milkycheats) and [GreasyFork](https://greasyfork.org/en/scripts/604378), made by syrupderg, do NOT install from other sources!
+
 ## 🎮 Supported Games
 
 | # | Game Title | Theme | Supported Levels | itch.io Page |
